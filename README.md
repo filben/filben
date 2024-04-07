@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+```
+codeblock
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
